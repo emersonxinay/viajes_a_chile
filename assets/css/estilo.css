@@ -7,7 +7,8 @@ body {
 .bg-black {
     background-color: black;
   }
-
-.container div .quienes_somos {
-  color: #f6f9f9 ;
+p{
+  text-align: justify;
 }
+
+
