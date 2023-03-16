@@ -16,4 +16,20 @@ o
 ```bash
 git add .
 ```
+para regresar a estado normal del ultimo commit pero con respecto a archivos modificados 
+```bash
+git reset --hard
+```
+
+para crear nuestra version usamos el commit 
+```bash
+git commit -m "titulo del commit"
+```
+o 
+```bash
+git commit -am "titulo del commit"
+```
+
+
+
 
